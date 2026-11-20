@@ -284,7 +284,5 @@ pbi-project/
 
 ---
 
-## 📬 Kontak
-Farhan, GitHub: [frhnaml](https://github.com/farhanaml)
 
-🎉 Terima kasih sudah melihat proyek ini!
+🎉 Terima kasih sudah melihat proyek ini!!!
